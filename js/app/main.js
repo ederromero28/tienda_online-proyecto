@@ -100,7 +100,7 @@ document.querySelector("#submit").addEventListener("click", e => {
     e.preventDefault();
 
     //INGRESE UN NUMERO DE WHATSAPP VALIDO AQUI:
-    let telefono = "51946502602";
+    let telefono = "51999999999";
 
     let cliente = document.querySelector("#cliente").value;
     let celular = document.querySelector("#celular").value;
