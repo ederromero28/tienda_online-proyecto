@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "marca": "HP PAVILION",
+        "imagen": "img/hp1.jpg",
+        "cat" : "notebook",
+        "precio": "2800",
+        "detalles": [
+            "8 GB RAM",
+            "COLOR PLATEADO",
+            "256 GB DISCO SSD"
+        ]
+    },
+    {
+        "id": 2,
+        "marca": "LAPTOP ACER",
+        "imagen": "img/acer.jpg",
+        "cat": "notebook",
+        "precio": "5000",
+        "detalles": [
+            "16 GB RAM",
+            "COLOR NEGRO",
+            "1 TB DD"
+        ]
+    },
+    {
+        "id": 3,
+        "marca": "HEADSET HyperX",
+        "imagen": "img/headset-hyperx.png",
+        "cat": "headsets",
+        "precio": "349",
+        "detalles": [
+            "Sonido envolvente 7.1, y gran calidad de micrófono.",
+            "COLOR AZUL"
+        ]
+    },
+    {
+        "id": 4,
+        "marca": "APPLE",
+        "imagen": "img/apple.jpg",
+        "precio": "5900",
+        "detalles": [
+            "8 GB RAM",
+            "COLOR GOLD",
+            "128 GB DD"
+        ]
+    },
+    {
+        "id": 5,
+        "marca": "MONITOR LG",
+        "imagen": "img/Monitor-LG.jpg",
+        "precio": "1149",
+        "detalles": [
+            "FULL HD",
+            "LED 24'",
+            "144hz 1ms 1920x1080"
+        ]
+    },
+    {
+        "id": 6,
+        "marca": "HEADSET ANTRYX",
+        "imagen": "img/headset-antryx.png",
+        "precio": "220",
+        "detalles": [
+            "Sonido de gran calidad y micrófono excelente.",
+            "COLOR NEGRO RGB"
+        ]
+    },
+    {
+        "id": 7,
+        "marca": "LOGITECH",
+        "imagen": "img/headset-logi.png",
+        "precio": "670",
+        "detalles": [
+            "GAMING",
+            "Sonido 7.1 junto a gran calidad de micrófono y construcción."
+        ]
+    },
+    {
+        "id": 8,
+        "marca": "MONITOR MSI",
+        "imagen": "img/msi-monitor.png",
+        "precio": "2549",
+        "detalles": [
+            "LED 27'",
+            "COLOR NEGRO",
+            "FHD GAMING"
+        ]
+    },
+    {
+        "id": 9,
+        "marca": "LAPTOP DELL",
+        "imagen": "img/dell.jpg",
+        "precio": "3397",
+        "detalles": [
+            "8 GB RAM",
+            "COLOR NEGRO",
+            "1 TB DD"
+        ]
+    },
+    {
+        "id": 10,
+        "marca": "MONITOR ACER",
+        "imagen": "img/acer-monitor.png",
+        "precio": "599",
+        "detalles": [
+            "FULL HD",
+            "COLOR NEGRO",
+            "RESOLUCION DE 1920 x 1080 PX"
+        ]
+    },
+    {
+        "id": 11,
+        "marca": "LAPTOP HUAWEI",
+        "imagen": "img/huawei.jpg",
+        "precio": "5769",
+        "detalles": [
+            "8 GB RAM",
+            "COLOR NEGRO",
+            "256 GB DD"
+        ]
+    },
+    {
+        "id": 12,
+        "marca": "LAPTOP ADVANCE",
+        "imagen": "img/advance.jpg",
+        "precio": "869",
+        "detalles": [
+            "3 GB RAM",
+            "COLOR NEGRO",
+            "64 GB DD"
+        ]
+    }
+]
